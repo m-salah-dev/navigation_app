@@ -1,17 +1,62 @@
-# navgation_app
+# Navigation & Data Passing App
 
-A new Flutter project.
+## 👤 معلومات الطالب
 
-## Getting Started
+* الاسم: محمد صلاح العواضي
+* القسم: (اكتب قسمك هنا)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 وصف التطبيق
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+هذا التطبيق يوضح:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* التنقل بين الشاشات باستخدام Navigator
+* تمرير البيانات بين الشاشات
+* إرجاع البيانات وعرضها باستخدام SnackBar
+
+---
+
+## 🧪 التمرين الأول: Navigation
+
+* الانتقال من الشاشة الرئيسية إلى شاشة التفاصيل
+* الرجوع باستخدام pop
+
+---
+
+## 🧪 التمرين الثاني: Passing Data
+
+* عرض قائمة منتجات
+* تمرير بيانات المنتج عند الضغط
+* عرض التفاصيل
+* الرجوع مع رسالة
+
+---
+
+## 📸 Screenshots
+
+### 🟢 Home Screen
+
+![Home](images/home.png)
+
+### 🔵 Detail Screen
+
+![Detail](images/detail.png)
+
+### 🟡 Product List
+
+![List](images/list.png)
+
+### 🔴 Product Detail
+
+![Product Detail](images/product_detail.png)
+
+### 🟣 SnackBar Message
+
+![SnackBar](images/snackbar.png)
+
+---
+
+## [🔗 GitHub Link](https://github.com/m-salah-dev/navigation_app.git)
+
+(يتم وضع الرابط هنا)
